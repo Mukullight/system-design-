@@ -23,7 +23,7 @@ for an image ![Alt](address of the link)
 
 | Kyle | 28 |
 
-| Sally| 45 |
+| Sally | 45 |
 
 
 ## table with different alignment of the text 
