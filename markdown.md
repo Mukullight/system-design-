@@ -19,7 +19,7 @@ for an image ![Alt](address of the link)
 
 | Name | Age |
 
-| ----- | --- |
+| --- | --- |
 
 | Kyle | 28 |
 
